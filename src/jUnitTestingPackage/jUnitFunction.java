@@ -6,8 +6,8 @@ public class jUnitFunction {
 		return num1+num2;
 
 	}
-	public String addString(String s1, String s2) {
-		return s1+s2;
+	public String addString(String st1, String st2) {
+		return st1+st2;
 	}
 
 }
